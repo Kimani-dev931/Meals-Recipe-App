@@ -1,8 +1,9 @@
-# meals
+# Meals Recipe App
 
-A new Flutter project.
+This is basically a meals recipe app that enables you to filer meals based on preference.
+Its has major concepts in flutter such using provider.
 
-## Getting Started
+## The app looks as follows:
 
 This project is a starting point for a Flutter application.
 
