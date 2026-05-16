@@ -7,3 +7,4 @@ Its has major concepts in flutter such using provider.
 
 ![Home page](https://github.com/Kimani-dev931/Meals-Recipe-App/blob/master/Screenshot_20260516_160611.jpg)
 ![Home page](https://github.com/Kimani-dev931/Meals-Recipe-App/blob/master/Screenshot_20260516_160620.jpg)
+![Filter page](https://github.com/Kimani-dev931/Meals-Recipe-App/blob/master/Screenshot_20260516_160629.jpg)
